@@ -83,4 +83,16 @@ layout: default
 </div>
 ```
 
+## Credits
 
+Inspired by this [Nicolas Carlo's gist](https://gist.github.com/nicoespeon/9964343) for Jekyll 1.5.1.
+
+## Contributing
+
+Note: I'm not a Ruby developper, so feel free to improve my code by submiting a [Github Pull Request](https://github.com/jguyomard/jekyll-paginate-categories/pulls).
+
+You are invited to contribute new features, fixes or updates to this plugin, through a [Github Pull Request](https://github.com/jguyomard/jekyll-paginate-categories/pulls).
+
+## Licence
+
+MIT.
