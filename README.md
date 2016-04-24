@@ -89,9 +89,13 @@ Inspired by this [Nicolas Carlo's gist](https://gist.github.com/nicoespeon/99643
 
 ## Contributing
 
-Note: I'm not a Ruby developper, so feel free to improve my code by submiting a [Github Pull Request](https://github.com/jguyomard/jekyll-paginate-categories/pulls).
+Note: I'm not a Ruby developer, so feel free to improve my code by submiting a [Github Pull Request](https://github.com/jguyomard/jekyll-paginate-categories/pulls).
 
 You are invited to contribute new features, fixes or updates to this plugin, through a [Github Pull Request](https://github.com/jguyomard/jekyll-paginate-categories/pulls).
+
+## Issues
+
+If you have any problems with or questions about this plugin, please contact me through a [GitHub issue](https://github.com/jguyomard/jekyll-paginate-categories/issues). 
 
 ## Licence
 
